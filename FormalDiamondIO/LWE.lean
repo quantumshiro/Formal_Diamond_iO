@@ -1,7 +1,5 @@
 import Mathlib.Data.ZMod.Basic
 import Mathlib.Data.Real.Basic
-import Mathlib.Data.Matrix.Basic
-import Mathlib.LinearAlgebra.Matrix.Basic
 import Mathlib.Probability.ProbabilityMassFunction.Basic
 
 noncomputable section
